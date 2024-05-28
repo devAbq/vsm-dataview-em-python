@@ -1,2 +1,2 @@
-# IC-em-Magnetismo
-Neste espaço, compartilharei scripts desenvolvidos durante minha iniciação científica na área de magnetismo, a qual está ligada à minha graduação em Física na UFRN. Estes scripts foram desenvolvidos para fins de estudos específicos da pesquisa, e estou compartilhando-os aqui para que possam beneficiar pesquisadores desta área específica.
+# Análise de dados de medidas obtidas em sistema VSM.
+Este repositório tem por finalidade o compartilhamento de scripts utilizados para plotagem de gráficos e análise de dados obtidos utilizando um magnetômetro de amostra vibratória (VSM), equipamento capaz de medir prorpriedades magnéticas de um material utilizando como princípio a Lei da Indução Eletromagnética (Lei de Faraday).
