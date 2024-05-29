@@ -6,3 +6,6 @@ caminhosDosDiretorios.py
 
 #esta pasta contem os arquivos das medidas obtidas no VSM
 diretorioDeDados
+
+#esta pasta contem graficos gerados usando os scripts
+graficosGerados/
