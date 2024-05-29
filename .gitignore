@@ -1,2 +1,8 @@
+#este diretorio contem os cache de operacao do python quando utilizamos importacao de modulos
+__pycache__/
+
 #este aquivo guarda variaveis strings contendo os caminhos dos diretorios
 caminhosDosDiretorios.py
+
+#esta pasta contem os arquivos das medidas obtidas no VSM
+diretorioDeDados
