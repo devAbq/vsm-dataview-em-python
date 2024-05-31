@@ -4,8 +4,8 @@ __pycache__/
 #este aquivo guarda variaveis strings contendo os caminhos dos diretorios
 caminhosDosDiretorios.py
 
-#esta pasta contem os arquivos das medidas obtidas no VSM
+#esta diretorio contem os arquivos das medidas obtidas no VSM
 diretorioDeDados/
 
-#esta pasta contem graficos gerados usando os scripts
+#este diretorio contem graficos gerados usando os scripts
 graficosGerados/
