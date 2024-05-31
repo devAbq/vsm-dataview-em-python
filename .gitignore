@@ -5,7 +5,7 @@ __pycache__/
 caminhosDosDiretorios.py
 
 #esta pasta contem os arquivos das medidas obtidas no VSM
-diretorioDeDados
+diretorioDeDados/
 
 #esta pasta contem graficos gerados usando os scripts
 graficosGerados/
