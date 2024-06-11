@@ -12,4 +12,4 @@ def metadeDoVetor(vetorAlvo):
 
 def coeficienteAngular(abscissas, ordenadas):
     acharCoeficienteAngular = np.polyfit(abscissas, ordenadas, 1)[0]
-    return acharCoeficienteAngular
+    return float(acharCoeficienteAngular)
