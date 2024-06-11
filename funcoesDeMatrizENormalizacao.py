@@ -1,4 +1,6 @@
-global funcaoNormalizadora, metadeDoVetor
+global funcaoNormalizadora, metadeDoVetor, coeficienteAngular
+
+import numpy as np
 
 def funcaoNormalizadora(vetorANormalizar):
     equacaoDeNormalizacao = (2*vetorANormalizar-((vetorANormalizar.max()+vetorANormalizar.min())))/(vetorANormalizar.max()-vetorANormalizar.min())
@@ -7,3 +9,7 @@ def funcaoNormalizadora(vetorANormalizar):
 
 def metadeDoVetor(vetorAlvo):
     return (len(vetorAlvo)//2)
+
+def coeficienteAngular(abscissas, ordenadas):
+    acharCoeficienteAngular = np.polyfit(abscissas, ordenadas, 1)[0]
+    return acharCoeficienteAngular
