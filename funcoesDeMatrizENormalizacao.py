@@ -1,4 +1,4 @@
-global funcaoNormalizadora, metadeDoVetor, coeficienteAngular
+global funcaoNormalizadora, metadeDoVetor, coeficienteAngular, valorAbs
 
 import numpy as np
 
