@@ -8,7 +8,7 @@ def funcaoNormalizadora(vetorANormalizar):
 
 
 def metadeDoVetor(vetorAlvo):
-    return (len(vetorAlvo)//2)
+    return int((len(vetorAlvo)//2))
 
 def coeficienteAngular(abscissas, ordenadas):
     acharCoeficienteAngular = np.polyfit(abscissas, ordenadas, 1)[0]
