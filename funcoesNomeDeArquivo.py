@@ -8,7 +8,7 @@ def extrairPartesDoNome(nome_arquivo):
 # Função para extrair o ângulo do nome do arquivo. Para aplicação da função é necessário que os arquivos .txt estejam nomeados seguindo o exemplo:Ta_CoFeB_Ag_x15_00.txt (ou Ta_CoFeB_Ag_x_05_000.txt, podendo ser ajustado -ABQ). Ou seja, com os últimos dígitos referenciando o ângulo de cada medida -CLEIZA
 def extrair_angulo(nomeDoArquivoParticionado):
     angulo_str = extrairPartesDoNome(nomeDoArquivoParticionado)[-1].split('.')[0]
-    return angulo_str
+    return int(angulo_str)
 
 def nomeConcatenadoDaAmostra(nomeDoArquivoParticionado):
     nomeParticionado = extrairPartesDoNome(nomeDoArquivoParticionado)
