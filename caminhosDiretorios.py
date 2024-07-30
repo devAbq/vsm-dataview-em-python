@@ -1,4 +1,4 @@
 global dirDadosDesteDispositivo, dirGraficosDesteDispositivo
 
-dirDadosDesteDispositivo = "/home/abq/Documents/ufrn/icGMAG/scripts/vsmDataviewEmPython/diretorioDados/"
-dirGraficosDesteDispositivo = "/home/abq/Documents/ufrn/icGMAG/scripts/vsmDataviewEmPython/graficosGerados/"
+dirDadosDesteDispositivo = "/home/abq/Downloads/TaNiFeTa/diretorioDados/"
+dirGraficosDesteDispositivo = "/home/abq/Downloads/TaNiFeTa/graficosGerados/"
