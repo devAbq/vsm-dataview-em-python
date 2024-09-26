@@ -3,6 +3,5 @@ Este repositório tem por finalidade o compartilhamento de scripts utilizados pa
 ___
 <div style="border-radius: 10px; display: flex; justify-content: space-around;">
   <img src="imagensInstitucionais/brasaoPreferencial.png" alt="Brasão UFRN" height="100">
-  <img src="imagensInstitucionais/ccet50.png" alt="Logo CCET" height="100">
   <img src="imagensInstitucionais/gnms.png" alt="Logo GNMS" height="100">
 </div>
