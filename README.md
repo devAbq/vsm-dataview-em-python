@@ -4,4 +4,5 @@ ___
 <div style="border-radius: 10px; display: flex; justify-content: space-around;">
   <img src="imagensInstitucionais/brasaoPreferencial.png" alt="Brasão UFRN" height="100">
   <img src="imagensInstitucionais/gnms.png" alt="Logo GNMS" height="100">
+  <img src="imagensInstitucionais/logo-gmag.png" alt="Logo GNMS" height="100">
 </div>
